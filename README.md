@@ -17,7 +17,7 @@
 🎓 **Master's Student in Data Analytics & Artificial Intelligence**  
 💼 **Oracle Intern**  
 📍 **Casablanca / Agadir, Morocco**  
-🔗 [LinkedIn](https://www.linkedin.com/in/adnane-yadani/) • [Portfolio](https://yadani-adnane.duckdns.org/) • [Personal GitHub](https://github.com/YAadnane)
+🔗 [LinkedIn](https://www.linkedin.com/in/adnane-yadani/) • [Portfolio](https://adnaneyadani.com/) • [Personal GitHub](https://github.com/YAadnane)
 
 I enjoy turning raw data into intelligent applications, robust machine learning workflows, and scalable data platforms.  
 My work sits at the intersection of **AI, Data Engineering, and MLOps**, with a strong focus on building practical and production-oriented solutions.
